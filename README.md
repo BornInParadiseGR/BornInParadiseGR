@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BornInParadiseGR
+- 👋 Hi, I’m Panagiotis Antoniou and i am studying Information and Communication Systems at University of Aegean
 - 👀 I’m interested in Computer engineering
 - 🌱 I’m currently learning Computer engineering and telecommunication systems
 - 💞️ I’m looking to collaborate on ...
